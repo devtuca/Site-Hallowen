@@ -5,6 +5,6 @@
 ## Explicação
 | Itens        | Descrição                        |
 | ------------ | -------------------------------- |
-| prefix       | Prefixo para os comandos         |
-| cooldown     | Cooldown entre comandos          | 
-|              |                                  | 
+| principio    | Descreve sobre o halloween.      |
+| contos       | Cita alguns contos do halloween  | 
+| histórias    | Cita algumas histórias sobre o hallowen |    
