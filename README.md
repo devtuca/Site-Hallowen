@@ -5,6 +5,6 @@
 ## Explicação
 | Itens        | Descrição                        |
 | ------------ | -------------------------------- |
-| principio    | Descreve sobre o halloween.      |
-| contos       | Cita alguns contos do halloween  | 
-| histórias    | Cita algumas histórias sobre o hallowen |    
+| Inicio       | Descreve sobre o halloween.      |
+| Histórias    | Cita alguns contos do halloween  | 
+| Contos       | Cita algumas histórias sobre o hallowen |    
