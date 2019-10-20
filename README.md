@@ -3,3 +3,7 @@
 </div>
 
 ## Explicação
+| Opção        | Descrição                        | Tipo     |
+| ------------ | -------------------------------- | -------- |
+| prefix       | Prefixo para os comandos         | String   |
+| cooldown     | Cooldown entre comandos          | Number   |
